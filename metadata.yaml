@@ -1,0 +1,37 @@
+_repo: Famous-Impostors_51391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: ''
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51391'
+  lccn: '10029528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcc 'CT'
+- !lcsh 'Hoaxes'
+- !lcsh 'Impostors and imposture'
+- GITenberg
+tableOfContents: 'Pretenders: Perkin Warbeck. The Hidden King. Stephan Mali. The false
+  Dauphins. Princess Olive -- Practitioners of magic: Paracelsus. Cagliostro. Mesmer
+  -- The Wandering Jew -- John Law -- Witchcraft and clairvoyance: Witches. Doctor
+  Dee. La Voisin. Sir Edward Kelley. Mother Damnable. Matthew Hopkins -- Arthur Orton
+  (Tichborne claimant) -- Women as men: The motive for disguise. Hannah Snell. La
+  Maupin. Mary East -- Hoaxes, etc.: Two London hoaxes. The cat hoax. The military
+  review. The toll-gate. The marriage hoax. Buried treasure. Dean Swift''s hoax. Hoaxed
+  burglars. Bogus sausages. The moon hoax -- Chevalier D''Eon -- The Bisley Boy.'
+title: Famous Impostors
+url: http://www.gutenberg.org/ebooks/51391
